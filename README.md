@@ -34,7 +34,7 @@ You can run this project locally with just a browser.
 
 1. Clone the Repository
 
-git clone https://github.com/YourUsername/online-javascript-compiler.git
+git clone https://github.com/Jithendra54/ai-code-compiler.git
 cd online-javascript-compiler
 
 2. Open the index.html file in your browser
